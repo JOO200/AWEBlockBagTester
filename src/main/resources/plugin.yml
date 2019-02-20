@@ -1,0 +1,9 @@
+main: de.joo.AWEBlockBagTester.TestPlugin
+author: Joo200
+name: AWEBlockBagTester
+version: 1.0
+api-version: 1.13
+depend: [WorldEdit, WorldGuard, AsyncWorldEdit]
+
+commands:
+  tester:
